@@ -46,7 +46,7 @@ Run the application:
 npm start
 
 
-The application should now be running on http://localhost:3000.
+The application should now be running on http://localhost:3000 in your machine.
 
 Note: The application requires an API key from OMDb. You can get one for free by signing up on their website, and then you'll need to add it to your project's code for the app to function correctly.
 
